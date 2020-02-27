@@ -1,5 +1,3 @@
-# manager-readme
-
 # Why does this exist?
 * To help you understand me better, and help us work together by setting expectations.
 To build trust.
